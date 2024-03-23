@@ -1,0 +1,238 @@
+body{
+    border: 4px solid black;
+    width: 1000px;
+    height: 1400px;
+}
+.main {
+    background-image: url(backimg.jpg);
+    margin-top:-500px;         
+    height: 900px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.head_main {
+    display: flex;
+    padding-top: 50px;
+    color: beige;
+    margin-right: 600px;
+}
+
+.head {
+    color: red;
+
+}
+
+.header {
+    color: blueviolet;
+    margin-left: 20px;
+    padding-top: 100px;
+    color: azure;
+    text-align: end;
+}
+
+.head_color {
+    
+    margin-left: 780px;
+    margin-top: -600px;
+    background-color: rgba(255, 255, 0, 0.753);
+    width: 160px;
+    height: 200px;
+    padding-right: 0px;
+}
+
+.head_text {
+    color: rgb(243, 17, 17);
+    margin-top: 20px;
+}
+
+.head_main1 {
+    color: white;
+    margin-top: 500px;
+}
+
+.img {
+    background-image: url(rec.png);
+    width: 80px;
+    margin-top: -280px;
+    margin-left: 560px;
+    height: 80px;
+    background-size: 80px 80px;
+}
+
+.h1 {
+    color: white;
+    margin-top: -570px;
+    margin-left: -130px;
+    font-size: 50px;
+}
+
+.text {
+    padding-left: 300px;
+    
+    color: white;
+    word-spacing: 20px;
+    font-size: 30px;
+}
+
+.text h1 {
+    letter-spacing: 30px;
+    padding-top: 700px;
+    
+}
+
+    
+
+.head_line {
+    margin-left: 200px;
+    margin-top: -500px;
+    height: 5px;
+    width: 130px;
+    background-color: yellow;
+}
+
+.header1 h6  {
+
+    color: white;
+    letter-spacing: 20px;
+    margin-left: 290px;
+} 
+.here{
+    color: rgb(123, 255, 0);
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 100px;
+    word-spacing: 10px;
+    
+}
+.line{
+    background-color: black;
+    height: 5px;
+    width: 100%;
+}
+.ser{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 50px;
+    color: blueviolet;
+    font-size:50px;
+    word-spacing: 5px;
+
+}
+.ser1{
+    margin-top: 70px;
+    margin-left: -230px;
+    font-size: 12px;
+    color: black;
+    text-align: justify;
+}
+.ser2{
+    color: black;
+    margin-left: 80px;
+
+}
+.ser3{
+    margin-top: 70px;
+    margin-left: -200px;
+    font-size: 12px;
+    color: black;
+    text-align: justify;
+}
+.bgcl
+{  
+    display: flexbox;
+    margin-top: -100px;
+    margin-left: -3px;
+
+    height: 90px;
+    width: 30px;
+    background-color: rgb(208, 255, 0);
+    background-size: 50px 50px;
+}
+.locat{
+    
+    background-image: url(locate.jpg);
+    height: 30px;
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.locat_txt{
+    display: flex;
+    color: rgb(10, 7, 7);
+    margin-left: 50px;
+    word-spacing: 30px;
+}
+.call{
+    display: flex;
+    background-image: url(call.jpg);
+    height: 30px;
+    width: 50px;
+    margin-top:-50px;
+    margin-left: 150px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.call_txt{
+    margin-left: 30px;
+    letter-spacing: 5px;
+}
+.gmail{
+    display:flex ;
+    background-image: url(email.jpg);
+    height: 30px;
+    width: 50px;
+    margin-top:40px;
+    margin-left: 50px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.gmail_txt{
+    margin-left: 40px;
+}
+.web{
+    display: flex;
+    margin-left: 20px;
+    background-image: url(shape_6.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    height: 30px;
+    width: 50px;
+}
+.web_txt{
+    margin-left: 30px;
+}
+.loco{
+
+    display: flex;
+    margin-left: 500px;
+    margin-top: -30px;
+    background-image: url(loco1.png);
+    background-size: 180px 30px;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 200px;
+    
+}
+.loco1{
+    display: flex;
+    margin-left: 750px;
+    margin-top: -60px;
+    background-image: url(logo_2.png);
+    background-size: 100px 60px;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 200px;
+}
+.bgcl2{
+    display: flexbox;
+    margin-top: -100px;
+    margin-left: 970px;
+
+    height: 100px;
+    width: 30px;
+    background-color: rgb(208, 255, 0);
+    background-size: 50px 50px;
+}
